@@ -6,6 +6,8 @@ if(a>=b):
     print('true')
 else:
     print('false')'''
+
+
 '''a=int(input('enter u no'))
 b=1
 sum=0
@@ -18,6 +20,8 @@ b=1
 while(b<=a):
     print(b)
     b=b+1'''
+
+
 '''a=int(input('entr u no'))
 b=1
 sum=0
@@ -25,6 +29,8 @@ while(a<=b):
     print(a)
     sum=sum*a
     print(sum)'''
+
+
 '''a=int(input('enter u no'))
 b=1
 sum=0
@@ -32,11 +38,16 @@ while(b<=a):
     sum=sum+(a*a)
     b=b+1
 print(sum)'''
+
+
 '''a=int(input('enter u no'))
 b=1
 while(b<=a):
     print(b)
     b=b+2'''
+
+
+
 '''a=int(input('enter u no'))
 b=2
 sum=0
@@ -44,6 +55,9 @@ while(a>=b):
     sum=sum+b
     b=b+2
     print(sum)'''
+
+
+
 '''a=int(input('entr u no'))
 b=int(input('entr 2 no'))
 ope=(input('enter u operator'))
@@ -60,7 +74,9 @@ else:
 a= int(input('enter u bill unit'))
 b=a*5
 c=b-(10):
-print(c,'rupeas')''' 
+print(c,'rupeas')'''
+
+
 
 
 '''10th class marksheeet calculter
@@ -93,6 +109,9 @@ print('your persentage is',f,(sum))'''
  c=(b/100)*10
  d=b-c
  print(d)'''
+
+
+
 
 ''' profit of 5% on our sale'''
 ''''a=eval(input('enter u 1st product profit'))
